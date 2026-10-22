@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music Revenue Data</title>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Student Mental Health Data</h1>
+   <p class="intro">
+            Exploring the relationship between student lifestyles
+            and mental health.
+        </p>
+    </header>
+    <main>
+        <section class="description">
+            <h2>About the Dataset</h2>
+
+            <p>
+                This dataset contains information about students'
+                demographic characteristics, daily habits and
+                mental health scores.
+            </p>
+
+            <p>
+                The data includes age, gender, year of study,
+                major category, sleep hours, screen time,
+                physical activity, PHQ-9 scores and GAD-7 scores.
+            </p>
+        </section>
+
+        <section class="data-section">
+            <h2>Student Data Table</h2>
+
+            <p class="table-note">
+                The table below is generated automatically
+                from the CSV file using JavaScript.
+            </p>
+
+            <div class="table-container">
+                <table id="dataTable">
+                    <thead>
+                        <tr>
+                            <th>Student ID</th>
+                            <th>Age</th>
+                            <th>Gender</th>
+                            <th>Year of Study</th>
+                            <th>Major Category</th>
+                            <th>Daily Sleep Hours</th>
+                            <th>Daily Screen Time Hours</th>
+                            <th>Physical Activity Days per Week</th>
+                            <th>PHQ-9 Score</th>
+                            <th>GAD-7 Score</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <!-- JavaScript will insert the CSV data here -->
+                    </tbody>
+                </table>
+            </div>
+
+            <p id="status" role="status" aria-live="polite">
+                Loading student data...
+            </p>
+        </section>
+
+        <section class="research-questions">
+            <h2>Research Questions</h2>
+
+            <ul>
+                <li>Is sleep duration associated with mental health scores?</li>
+                <li>Is daily screen time related to PHQ-9 and GAD-7 scores?</li>
+                <li>Is physical activity associated with mental health?</li>
+            </ul>
+        </section>
+
+        <section class="limitations">
+            <h2>Data Limitations</h2>
+
+            <p>
+                This dataset can help explore possible patterns
+                between lifestyle and mental health. However,
+                associations do not prove causation. The results
+                may not represent all students, and other factors
+                may also influence mental health.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Student Mental Health Data Project</p>
+        <p>Data source: Add the original dataset source here.</p>
+    </footer>
+
+</body>
+</html>

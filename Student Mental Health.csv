@@ -1,0 +1,501 @@
+student_id,age,gender,year_of_study,major_category,daily_sleep_hours,daily_screen_time_hours,physical_activity_days_per_week,phq9_score,gad7_score
+STU1001,22,Female,3,Business,6.1,4.1,1,17.0,16.0
+STU1002,19,M,2,Business,7.0,2.3,3,9.0,7.0
+STU1003,23,Prefer not to say,3,STEM,5.0,9.2,1,1.0,2.0
+STU1004,23,Male,2,Humanities,3.8,2.0,6,4.0,6.0
+STU1005,17,Female,5,Arts,5.8,4.1,0,10.0,6.0
+STU1006,19,Female,2,Business,5.2,5.8,4,5.0,5.0
+STU1007,22,Male,3,Humanities,4.3,4.6,4,3.0,3.0
+STU1008,21,male,1,STEM,8.3,5.3,0,27.0,19.0
+STU1009,21,Female,2,STEM,6.8,2.3,1,7.0,8.0
+STU1010,20,Female,4,STEM,6.6,5.9,2,6.0,7.0
+STU1011,23,Male,3,STEM,6.1,1.1,5,8.0,6.0
+STU1012,23,Male,2,Arts,5.2,9.1,3,4.0,5.0
+STU1013,22,female,5,Business,8.2,1.0,3,,
+STU1014,24,Male,4,Health Sciences,6.4,2.9,4,7.0,5.0
+STU1015,22,Male,2,Social Sciences,7.6,4.1,4,6.0,6.0
+STU1016,20,Male,3,STEM,5.5,8.8,3,27.0,19.0
+STU1017,22,Female,3,STEM,5.9,2.0,3,4.0,4.0
+STU1018,19,Female,3,Health Sciences,4.6,7.3,4,3.0,1.0
+STU1019,23,Female,2,STEM,4.5,1.0,2,7.0,9.0
+STU1020,21,Male,2,Arts,6.4,2.8,5,4.0,3.0
+STU1021,21,Male,4,STEM,7.1,1.0,0,7.0,9.0
+STU1022,20,M,4,Social Sciences,4.5,4.3,1,2.0,2.0
+STU1023,24,Female,4,Health Sciences,6.4,2.4,4,13.0,9.0
+STU1024,21,Female,5,STEM,6.5,2.6,2,25.0,21.0
+STU1025,21,Non-binary,4,STEM,3.0,10.6,1,4.0,7.0
+STU1026,21,male,4,Law,5.3,2.9,1,3.0,4.0
+STU1027,23,Male,4,STEM,6.5,9.7,3,,
+STU1028,22,Female,3,Business,7.1,2.3,4,3.0,3.0
+STU1029,22,Female,2,Business,4.5,4.6,0,3.0,4.0
+STU1030,22,Female,2,STEM,6.0,4.2,0,14.0,10.0
+STU1031,26,M,3,Social Sciences,7.5,8.6,3,3.0,6.0
+STU1032,21,Female,2,Social Sciences,6.9,6.7,6,2.0,2.0
+STU1033,20,male,2,Business,6.1,3.4,2,6.0,9.0
+STU1034,20,M,3,Health Sciences,5.4,6.6,6,4.0,4.0
+STU1035,23,Female,2,STEM,4.8,6.3,5,12.0,10.0
+STU1036,24,female,1,STEM,7.5,2.1,2,6.0,7.0
+STU1037,21,Female,4,Humanities,5.7,10.1,4,6.0,6.0
+STU1038,20,M,4,Law,6.6,11.2,4,6.0,5.0
+STU1039,20,Female,1,STEM,6.3,5.2,3,8.0,7.0
+STU1040,23,Female,1,STEM,8.0,1.9,2,4.0,6.0
+STU1041,23,Female,2,Humanities,6.4,4.8,4,9.0,7.0
+STU1042,23,Male,4,Health Sciences,7.7,2.3,4,5.0,5.0
+STU1043,20,Female,4,STEM,7.7,2.8,4,3.0,4.0
+STU1044,22,female,1,Business,5.8,2.1,7,0.0,4.0
+STU1045,22,Female,4,Social Sciences,4.0,5.8,3,4.0,4.0
+STU1046,22,Male,1,Business,8.3,2.6,4,4.0,8.0
+STU1047,23,Female,2,STEM,7.5,1.3,5,1.0,2.0
+STU1048,22,Male,5,STEM,3.9,4.7,1,3.0,3.0
+STU1049,23,Male,1,Business,5.5,3.6,0,3.0,4.0
+STU1050,22,female,1,Business,7.4,2.7,2,6.0,3.0
+STU1051,22,Female,2,Health Sciences,5.4,10.1,5,4.0,3.0
+STU1052,23,Male,3,Social Sciences,5.3,5.9,2,4.0,4.0
+STU1053,18,Female,5,Social Sciences,7.9,5.5,4,4.0,7.0
+STU1054,21,Male,5,Law,4.8,6.0,0,3.0,4.0
+STU1055,21,Male,1,Business,4.7,5.8,2,6.0,5.0
+STU1056,20,Non-binary,1,Business,6.6,3.7,3,12.0,12.0
+STU1057,21,Female,4,Arts,6.6,2.6,1,20.0,18.0
+STU1058,25,Prefer not to say,2,STEM,6.3,4.8,5,10.0,11.0
+STU1059,20,Female,4,Social Sciences,7.5,3.7,1,2.0,2.0
+STU1060,24,Female,3,Social Sciences,7.1,1.0,5,8.0,6.0
+STU1061,18,male,1,STEM,7.3,1.9,1,27.0,21.0
+STU1062,21,female,4,Business,6.3,3.3,7,2.0,4.0
+STU1063,22,male,1,STEM,5.4,7.8,3,17.0,13.0
+STU1064,23,F,2,STEM,5.9,4.8,0,4.0,6.0
+STU1065,23,male,3,Business,7.4,2.3,0,2.0,5.0
+STU1066,23,female,3,STEM,7.2,1.8,0,2.0,2.0
+STU1067,21,Male,3,Health Sciences,6.6,8.8,3,2.0,4.0
+STU1068,21,male,3,Arts,6.2,3.8,4,6.0,8.0
+STU1069,23,Female,5,Health Sciences,5.7,1.0,2,9.0,6.0
+STU1070,21,Female,5,STEM,6.2,4.0,2,9.0,8.0
+STU1071,19,Female,3,STEM,6.1,6.8,3,3.0,2.0
+STU1072,19,F,1,STEM,6.9,1.8,3,7.0,5.0
+STU1073,20,Prefer not to say,4,STEM,8.8,4.5,4,9.0,7.0
+STU1074,23,Male,5,Arts,5.3,4.8,3,7.0,8.0
+STU1075,22,male,2,Business,7.2,1.9,4,,
+STU1076,23,male,2,STEM,6.6,9.3,7,4.0,3.0
+STU1077,21,Female,2,Health Sciences,6.5,4.9,2,4.0,5.0
+STU1078,22,Male,1,Business,10.0,3.3,0,10.0,6.0
+STU1079,23,Male,3,STEM,6.3,3.9,1,5.0,6.0
+STU1080,21,male,2,STEM,7.2,1.6,3,2.0,6.0
+STU1081,22,Female,4,Social Sciences,5.6,1.5,2,3.0,4.0
+STU1082,20,Prefer not to say,4,Health Sciences,5.4,3.1,5,10.0,8.0
+STU1083,21,Female,4,STEM,6.3,3.3,3,15.0,12.0
+STU1084,21,F,2,Arts,7.8,3.7,3,4.0,1.0
+STU1085,19,Female,2,Health Sciences,5.8,9.9,4,5.0,6.0
+STU1086,23,male,4,Health Sciences,7.3,6.5,1,2.0,10.0
+STU1087,21,Male,4,STEM,6.5,1.0,4,2.0,3.0
+STU1088,22,Female,3,STEM,5.0,8.7,0,7.0,6.0
+STU1089,23,M,4,Health Sciences,9.3,3.1,3,22.0,18.0
+STU1090,22,female,1,STEM,6.4,6.9,5,6.0,9.0
+STU1091,23,M,4,Humanities,5.3,3.3,4,6.0,8.0
+STU1092,21,Male,1,Social Sciences,5.2,4.7,5,6.0,2.0
+STU1093,21,Female,1,STEM,5.2,1.7,2,6.0,7.0
+STU1094,21,Male,3,Health Sciences,7.4,5.4,4,6.0,11.0
+STU1095,18,Male,1,Arts,5.4,7.4,3,4.0,6.0
+STU1096,18,Non-binary,1,Social Sciences,6.8,1.1,3,5.0,3.0
+STU1097,19,male,1,Business,6.0,7.5,0,2.0,4.0
+STU1098,19,male,2,Health Sciences,7.3,2.6,1,5.0,3.0
+STU1099,22,female,4,Humanities,4.3,11.8,3,4.0,7.0
+STU1100,20,male,1,Social Sciences,4.8,7.0,0,13.0,9.0
+STU1101,21,M,3,Health Sciences,6.5,6.3,4,18.0,14.0
+STU1102,24,Male,4,Social Sciences,7.0,3.9,4,1.0,1.0
+STU1103,21,Male,1,STEM,5.3,16.0,5,,
+STU1104,23,Female,1,STEM,5.2,3.1,0,12.0,13.0
+STU1105,20,M,4,STEM,7.1,2.0,5,6.0,6.0
+STU1106,21,Male,4,Business,5.8,2.7,0,10.0,7.0
+STU1107,20,Female,3,Business,5.3,8.3,3,4.0,2.0
+STU1108,21,Non-binary,4,Humanities,5.3,4.6,4,3.0,0.0
+STU1109,23,Male,1,Business,7.9,4.2,0,6.0,3.0
+STU1110,18,Female,2,Health Sciences,7.2,3.1,0,5.0,5.0
+STU1111,22,female,4,Arts,7.3,4.0,0,6.0,8.0
+STU1112,22,Non-binary,2,STEM,8.2,3.0,3,13.0,9.0
+STU1113,20,Male,4,Social Sciences,9.7,6.6,4,8.0,10.0
+STU1114,18,M,3,Social Sciences,4.3,3.6,1,3.0,3.0
+STU1115,22,Female,4,Humanities,6.0,2.7,1,12.0,9.0
+STU1116,20,M,2,STEM,5.2,7.9,3,4.0,2.0
+STU1117,22,Male,2,Health Sciences,5.7,2.0,1,8.0,9.0
+STU1118,22,Female,1,Law,5.0,4.7,4,10.0,13.0
+STU1119,25,Female,1,Social Sciences,6.4,1.0,6,4.0,1.0
+STU1120,21,Male,4,Arts,5.0,1.4,4,6.0,5.0
+STU1121,19,female,1,Law,7.0,3.3,5,15.0,14.0
+STU1122,22,Male,1,Business,7.4,2.9,3,15.0,9.0
+STU1123,22,Male,1,Social Sciences,6.9,2.9,4,7.0,8.0
+STU1124,24,Female,1,Business,6.6,7.1,1,2.0,6.0
+STU1125,23,male,4,Law,6.5,7.3,0,3.0,4.0
+STU1126,22,M,2,STEM,5.6,5.3,3,10.0,10.0
+STU1127,25,Prefer not to say,5,Business,9.6,2.0,0,5.0,9.0
+STU1128,19,Male,1,Health Sciences,6.4,4.0,5,6.0,10.0
+STU1129,20,Female,3,STEM,3.0,12.8,4,3.0,4.0
+STU1130,20,Male,2,Health Sciences,3.2,16.0,6,3.0,3.0
+STU1131,21,Female,2,Business,3.5,7.9,2,7.0,5.0
+STU1132,19,Prefer not to say,4,Law,6.1,2.0,3,2.0,5.0
+STU1133,23,Non-binary,5,Health Sciences,6.4,4.0,4,2.0,1.0
+STU1134,21,Female,4,STEM,6.5,5.0,1,2.0,3.0
+STU1135,18,Female,1,Social Sciences,8.6,4.6,3,8.0,7.0
+STU1136,19,female,2,Business,6.0,8.4,3,9.0,7.0
+STU1137,22,Female,3,Humanities,7.1,6.9,6,5.0,6.0
+STU1138,23,Male,2,Social Sciences,5.2,1.9,4,5.0,10.0
+STU1139,26,Female,4,Health Sciences,5.7,2.8,0,11.0,9.0
+STU1140,28,Male,3,STEM,5.8,7.9,3,12.0,9.0
+STU1141,22,Male,3,STEM,5.6,10.1,3,4.0,7.0
+STU1142,19,Male,4,Social Sciences,3.9,5.1,1,13.0,11.0
+STU1143,17,Female,4,Humanities,5.5,10.8,2,17.0,16.0
+STU1144,22,Female,1,Business,6.2,4.7,2,8.0,8.0
+STU1145,20,Female,1,STEM,6.1,2.2,0,5.0,5.0
+STU1146,21,Female,3,Business,5.0,6.5,3,6.0,2.0
+STU1147,20,F,3,Health Sciences,3.9,16.0,1,4.0,1.0
+STU1148,21,male,2,STEM,6.5,1.6,3,11.0,5.0
+STU1149,24,Female,2,Business,5.1,10.6,1,5.0,6.0
+STU1150,22,Male,4,Arts,6.6,6.2,4,9.0,5.0
+STU1151,21,female,4,STEM,8.0,2.6,1,9.0,10.0
+STU1152,19,Male,3,Social Sciences,6.4,1.0,5,2.0,3.0
+STU1153,18,Female,2,STEM,6.3,1.0,0,11.0,9.0
+STU1154,20,female,2,Health Sciences,7.0,2.9,3,2.0,2.0
+STU1155,21,Female,3,Social Sciences,7.2,5.6,2,3.0,5.0
+STU1156,25,male,2,Health Sciences,5.7,7.5,1,5.0,4.0
+STU1157,22,Female,3,STEM,6.9,8.6,3,4.0,3.0
+STU1158,24,Female,3,Humanities,7.6,5.3,4,5.0,8.0
+STU1159,20,Male,1,Social Sciences,8.0,4.8,5,5.0,6.0
+STU1160,19,Male,1,STEM,8.4,3.4,2,12.0,9.0
+STU1161,19,Female,1,STEM,4.7,5.7,1,4.0,6.0
+STU1162,20,Male,4,STEM,6.6,2.7,4,8.0,7.0
+STU1163,26,female,3,Arts,6.8,1.7,3,12.0,11.0
+STU1164,20,Male,1,Social Sciences,6.5,4.6,1,5.0,4.0
+STU1165,23,Female,4,Social Sciences,4.9,7.2,4,5.0,9.0
+STU1166,20,male,2,Social Sciences,4.6,1.4,3,2.0,2.0
+STU1167,23,male,3,Humanities,6.7,2.9,3,3.0,7.0
+STU1168,22,Female,5,Business,5.3,4.5,2,10.0,8.0
+STU1169,21,Female,1,Business,5.8,4.4,2,2.0,5.0
+STU1170,21,Prefer not to say,1,Social Sciences,5.2,6.1,1,8.0,9.0
+STU1171,20,Non-binary,3,STEM,3.4,12.6,4,,
+STU1172,22,M,1,Health Sciences,6.7,1.0,1,3.0,2.0
+STU1173,21,female,3,Health Sciences,5.8,12.9,4,16.0,15.0
+STU1174,19,male,1,Business,6.6,12.3,4,3.0,8.0
+STU1175,19,Male,1,Humanities,8.1,7.6,4,3.0,3.0
+STU1176,22,Female,1,STEM,6.4,5.0,0,4.0,5.0
+STU1177,25,Male,2,Law,7.1,2.7,2,5.0,4.0
+STU1178,22,Female,1,Arts,5.1,7.6,3,2.0,3.0
+STU1179,21,F,1,Arts,4.5,5.2,3,7.0,10.0
+STU1180,22,Female,4,Business,8.1,3.5,5,4.0,3.0
+STU1181,24,Female,2,STEM,5.3,7.4,2,5.0,3.0
+STU1182,22,Male,2,STEM,4.5,8.2,5,15.0,15.0
+STU1183,21,F,1,STEM,5.8,10.0,1,26.0,20.0
+STU1184,24,Male,2,STEM,5.9,2.5,2,3.0,8.0
+STU1185,22,Male,2,STEM,4.6,9.2,0,12.0,9.0
+STU1186,25,Male,3,Law,5.5,3.5,4,0.0,2.0
+STU1187,22,Male,1,STEM,7.4,5.0,1,4.0,3.0
+STU1188,19,Female,4,STEM,5.4,5.7,1,19.0,15.0
+STU1189,19,Female,4,Health Sciences,4.1,8.8,4,6.0,2.0
+STU1190,25,Male,1,Humanities,7.0,7.0,3,16.0,14.0
+STU1191,25,Male,1,Social Sciences,6.8,3.4,0,9.0,8.0
+STU1192,21,Male,1,Social Sciences,5.9,1.0,0,6.0,6.0
+STU1193,21,Female,3,Health Sciences,4.3,6.1,3,7.0,6.0
+STU1194,25,Male,1,Social Sciences,5.6,4.9,2,7.0,5.0
+STU1195,19,Non-binary,4,Humanities,5.8,1.6,1,8.0,9.0
+STU1196,20,Male,4,Social Sciences,7.3,5.3,3,4.0,2.0
+STU1197,23,Male,4,Business,5.1,4.4,1,3.0,5.0
+STU1198,21,Female,3,Business,5.5,10.0,3,22.0,20.0
+STU1199,21,Female,5,Business,6.1,13.5,2,3.0,7.0
+STU1200,21,Male,1,STEM,3.1,8.1,1,5.0,2.0
+STU1201,22,Male,2,Health Sciences,7.4,4.2,1,5.0,4.0
+STU1202,24,female,2,STEM,4.7,4.7,1,7.0,7.0
+STU1203,22,Male,5,STEM,6.8,2.4,0,2.0,3.0
+STU1204,23,Female,3,STEM,7.1,2.8,2,,
+STU1205,17,Female,4,Health Sciences,7.4,4.1,5,2.0,4.0
+STU1206,21,Female,1,Business,7.0,3.8,4,2.0,3.0
+STU1207,20,Female,5,Social Sciences,3.8,1.5,2,6.0,10.0
+STU1208,19,male,3,Health Sciences,5.1,10.0,3,5.0,5.0
+STU1209,20,M,3,STEM,5.6,10.9,3,2.0,6.0
+STU1210,21,Male,5,Social Sciences,5.7,9.8,4,1.0,0.0
+STU1211,23,Female,2,STEM,6.4,11.1,1,4.0,3.0
+STU1212,19,Male,2,STEM,5.8,15.9,2,4.0,6.0
+STU1213,22,Female,3,Social Sciences,7.2,2.4,2,2.0,5.0
+STU1214,20,Non-binary,1,Arts,4.6,15.5,0,7.0,5.0
+STU1215,21,Male,2,STEM,4.1,3.4,2,7.0,7.0
+STU1216,24,Female,1,Humanities,5.7,6.7,5,2.0,1.0
+STU1217,23,F,1,STEM,7.2,1.2,5,,
+STU1218,24,Male,4,Humanities,5.2,3.1,0,8.0,9.0
+STU1219,21,Female,3,Humanities,6.2,8.3,2,5.0,4.0
+STU1220,20,male,2,Humanities,6.8,6.9,2,7.0,6.0
+STU1221,21,Male,2,Humanities,7.2,3.4,3,5.0,3.0
+STU1222,22,Male,2,STEM,3.0,4.7,3,7.0,5.0
+STU1223,22,Male,3,Social Sciences,4.7,2.9,0,21.0,19.0
+STU1224,19,female,4,Social Sciences,8.5,8.3,4,7.0,7.0
+STU1225,22,Male,5,Social Sciences,5.0,10.4,6,22.0,14.0
+STU1226,22,Male,2,STEM,4.3,2.5,3,3.0,3.0
+STU1227,27,Male,2,Business,7.7,4.4,3,6.0,3.0
+STU1228,25,Male,2,Business,6.6,1.4,3,1.0,1.0
+STU1229,20,Female,3,STEM,7.5,5.2,2,7.0,9.0
+STU1230,21,Male,2,STEM,6.0,6.2,1,10.0,8.0
+STU1231,18,Female,3,Business,6.7,5.5,3,4.0,8.0
+STU1232,20,Female,3,Social Sciences,6.6,5.9,0,3.0,4.0
+STU1233,22,M,2,STEM,7.7,4.1,4,8.0,7.0
+STU1234,24,Male,2,Health Sciences,9.1,4.1,2,2.0,5.0
+STU1235,20,M,2,Humanities,6.8,4.0,2,1.0,0.0
+STU1236,20,Female,1,Social Sciences,4.5,3.0,2,8.0,8.0
+STU1237,17,Male,1,Business,7.8,3.3,6,9.0,8.0
+STU1238,21,male,4,Business,7.7,6.1,1,3.0,7.0
+STU1239,19,M,2,Humanities,6.8,10.0,1,16.0,14.0
+STU1240,20,Male,1,Arts,6.2,2.1,1,2.0,1.0
+STU1241,20,female,3,Business,7.5,4.1,3,3.0,6.0
+STU1242,21,Female,4,Humanities,7.3,1.8,7,5.0,5.0
+STU1243,18,Female,2,Humanities,9.4,3.1,1,3.0,2.0
+STU1244,18,Prefer not to say,4,Social Sciences,5.5,3.5,5,5.0,6.0
+STU1245,26,Female,4,STEM,5.0,4.9,2,7.0,6.0
+STU1246,19,M,3,Humanities,5.5,4.9,3,19.0,17.0
+STU1247,19,Male,3,Business,5.7,4.3,0,16.0,13.0
+STU1248,25,male,1,Arts,4.9,5.7,3,6.0,6.0
+STU1249,28,Female,5,Business,3.3,2.3,3,2.0,5.0
+STU1250,19,Male,2,Business,5.3,5.0,3,6.0,8.0
+STU1251,21,Female,4,Law,6.6,7.0,1,9.0,9.0
+STU1252,22,Male,3,Business,5.6,2.3,4,11.0,12.0
+STU1253,25,Male,1,STEM,9.5,1.0,6,14.0,12.0
+STU1254,19,Male,1,STEM,5.3,8.2,2,6.0,6.0
+STU1255,21,Female,3,STEM,7.8,1.8,3,4.0,7.0
+STU1256,23,Male,3,STEM,6.9,3.0,4,11.0,9.0
+STU1257,22,Male,1,Business,7.5,6.9,1,1.0,3.0
+STU1258,21,male,4,Social Sciences,7.0,2.2,5,6.0,9.0
+STU1259,21,Non-binary,4,Social Sciences,7.7,7.9,2,,
+STU1260,19,male,3,STEM,6.5,2.7,4,4.0,5.0
+STU1261,21,Male,2,Humanities,6.8,2.4,0,15.0,11.0
+STU1262,21,female,1,STEM,6.9,1.8,2,7.0,9.0
+STU1263,22,Female,4,Arts,5.8,2.7,3,12.0,11.0
+STU1264,20,Male,2,STEM,6.1,6.3,3,3.0,5.0
+STU1265,22,Male,4,Humanities,9.2,3.0,5,5.0,5.0
+STU1266,24,Non-binary,2,Business,5.2,8.2,7,5.0,6.0
+STU1267,22,Male,3,Social Sciences,6.9,4.5,0,9.0,8.0
+STU1268,22,Female,2,Business,7.4,4.7,2,3.0,3.0
+STU1269,22,Prefer not to say,1,Social Sciences,8.0,2.4,2,4.0,5.0
+STU1270,22,Male,4,STEM,5.6,9.0,3,7.0,7.0
+STU1271,20,Male,3,Arts,3.5,7.1,3,7.0,6.0
+STU1272,22,Prefer not to say,3,Business,6.7,6.9,5,2.0,5.0
+STU1273,21,Female,5,Social Sciences,4.0,3.9,4,2.0,6.0
+STU1274,26,Male,5,Health Sciences,8.1,1.6,0,0.0,4.0
+STU1275,25,female,4,Law,6.4,4.9,2,2.0,3.0
+STU1276,22,female,1,STEM,7.0,6.1,3,17.0,15.0
+STU1277,20,Female,3,STEM,4.8,6.2,3,3.0,4.0
+STU1278,19,Female,4,STEM,4.2,5.7,1,4.0,2.0
+STU1279,24,Male,2,STEM,6.2,5.5,2,4.0,6.0
+STU1280,22,Male,1,Humanities,6.1,2.6,2,2.0,4.0
+STU1281,23,Female,4,Law,5.5,2.7,1,10.0,14.0
+STU1282,18,Male,3,Law,6.0,1.8,4,6.0,9.0
+STU1283,23,Non-binary,3,Humanities,8.8,8.3,2,9.0,9.0
+STU1284,22,M,5,Social Sciences,6.4,13.1,3,4.0,5.0
+STU1285,19,Male,3,Health Sciences,5.7,16.0,3,1.0,3.0
+STU1286,21,Female,2,Arts,6.8,5.1,5,3.0,2.0
+STU1287,22,Male,2,STEM,8.5,5.5,1,6.0,2.0
+STU1288,22,female,2,Humanities,5.9,4.0,0,4.0,3.0
+STU1289,21,Male,1,Health Sciences,3.8,5.1,2,2.0,3.0
+STU1290,21,Female,4,STEM,6.5,2.2,2,4.0,0.0
+STU1291,21,Female,4,Business,7.5,4.0,2,0.0,1.0
+STU1292,22,Female,2,Law,4.9,2.4,4,14.0,11.0
+STU1293,25,Non-binary,2,Law,6.1,3.6,1,5.0,5.0
+STU1294,17,male,4,Arts,5.2,2.6,0,5.0,4.0
+STU1295,21,Female,1,Health Sciences,8.6,6.2,2,19.0,14.0
+STU1296,22,male,3,STEM,6.4,6.6,4,3.0,7.0
+STU1297,22,Prefer not to say,2,Business,6.6,5.4,5,4.0,6.0
+STU1298,21,Female,3,Humanities,6.9,2.8,4,4.0,3.0
+STU1299,18,Female,1,Humanities,6.1,1.7,3,15.0,12.0
+STU1300,22,Male,3,Business,6.6,6.7,4,10.0,8.0
+STU1301,25,male,2,Social Sciences,5.6,4.5,4,20.0,13.0
+STU1302,18,Female,3,Business,3.9,1.0,1,3.0,2.0
+STU1303,23,Female,1,Social Sciences,6.0,4.9,3,3.0,6.0
+STU1304,21,Male,2,Business,5.8,5.6,4,,
+STU1305,21,female,3,Business,8.0,1.3,2,8.0,5.0
+STU1306,19,Female,1,STEM,7.8,6.2,3,2.0,3.0
+STU1307,21,Non-binary,1,STEM,8.3,1.4,3,16.0,13.0
+STU1308,24,Male,1,Health Sciences,5.4,2.5,3,3.0,0.0
+STU1309,23,F,2,Business,6.3,1.4,0,11.0,9.0
+STU1310,25,Male,1,STEM,7.2,2.3,3,3.0,6.0
+STU1311,24,Male,5,Social Sciences,9.5,1.7,5,2.0,4.0
+STU1312,22,M,2,Humanities,7.2,8.3,1,7.0,11.0
+STU1313,25,female,4,STEM,7.9,3.8,2,2.0,6.0
+STU1314,22,Male,5,Business,6.0,3.2,0,3.0,7.0
+STU1315,23,Female,1,STEM,5.0,8.7,0,3.0,10.0
+STU1316,21,male,3,Social Sciences,7.0,8.5,7,4.0,6.0
+STU1317,22,female,4,STEM,4.6,3.4,3,27.0,20.0
+STU1318,20,Female,3,STEM,5.4,5.3,2,8.0,9.0
+STU1319,24,Female,2,STEM,6.1,2.9,2,3.0,3.0
+STU1320,19,male,2,Humanities,7.9,4.2,7,2.0,4.0
+STU1321,23,male,1,STEM,6.4,2.0,1,5.0,4.0
+STU1322,21,male,3,Health Sciences,3.3,5.9,4,1.0,3.0
+STU1323,24,Female,5,STEM,6.7,9.0,2,1.0,1.0
+STU1324,23,Male,5,Humanities,5.1,8.0,0,3.0,3.0
+STU1325,25,female,1,Business,6.4,4.6,4,2.0,4.0
+STU1326,23,female,3,Business,6.9,1.0,0,11.0,9.0
+STU1327,18,male,2,STEM,6.3,2.8,3,3.0,0.0
+STU1328,21,Male,4,Health Sciences,7.3,4.2,1,3.0,1.0
+STU1329,19,Male,1,Arts,5.2,1.5,4,3.0,2.0
+STU1330,20,male,5,STEM,6.1,1.3,4,16.0,11.0
+STU1331,25,Male,4,STEM,6.3,10.5,4,5.0,6.0
+STU1332,23,F,1,Arts,4.9,7.4,0,0.0,2.0
+STU1333,20,Female,1,Humanities,4.3,6.1,4,6.0,8.0
+STU1334,19,male,4,STEM,7.1,6.9,7,6.0,7.0
+STU1335,22,female,1,STEM,7.9,1.8,1,,
+STU1336,19,Female,3,Social Sciences,6.9,2.3,2,10.0,10.0
+STU1337,20,Male,4,Social Sciences,3.2,5.1,4,1.0,3.0
+STU1338,22,Female,3,Humanities,7.0,5.4,1,3.0,6.0
+STU1339,24,Female,2,Arts,4.6,1.5,3,14.0,13.0
+STU1340,23,Female,2,Business,6.4,4.9,4,,
+STU1341,17,Female,1,STEM,5.9,4.2,0,6.0,8.0
+STU1342,22,F,5,Business,4.5,7.8,3,2.0,0.0
+STU1343,22,Female,2,Business,5.5,5.4,3,17.0,12.0
+STU1344,22,Male,1,STEM,5.2,11.2,2,4.0,4.0
+STU1345,25,Female,2,STEM,5.0,3.4,5,4.0,7.0
+STU1346,17,Female,5,Business,7.1,1.8,1,2.0,6.0
+STU1347,20,Male,1,Social Sciences,5.2,11.0,2,2.0,0.0
+STU1348,23,Male,4,STEM,7.1,5.6,4,10.0,11.0
+STU1349,18,Non-binary,3,Business,6.4,4.2,1,11.0,7.0
+STU1350,25,Female,4,Social Sciences,6.1,2.3,4,0.0,0.0
+STU1351,22,F,5,Humanities,5.8,3.4,0,5.0,5.0
+STU1352,23,Male,4,Social Sciences,4.6,3.3,3,7.0,6.0
+STU1353,20,Male,5,Health Sciences,6.8,1.8,0,5.0,2.0
+STU1354,23,male,1,Social Sciences,6.2,1.0,3,0.0,3.0
+STU1355,24,female,4,STEM,3.3,3.3,4,6.0,7.0
+STU1356,22,Male,3,Business,5.0,7.0,4,5.0,7.0
+STU1357,22,Male,3,Humanities,4.3,9.4,7,4.0,4.0
+STU1358,22,Male,4,STEM,7.5,8.0,3,3.0,4.0
+STU1359,20,Female,5,STEM,3.5,8.3,4,4.0,5.0
+STU1360,21,Female,3,STEM,4.4,2.0,3,8.0,11.0
+STU1361,21,Male,3,Business,7.6,5.2,5,5.0,0.0
+STU1362,22,Male,2,Business,7.8,6.2,3,4.0,3.0
+STU1363,24,Female,2,STEM,5.6,6.4,5,3.0,4.0
+STU1364,19,F,2,Health Sciences,5.3,4.2,1,11.0,7.0
+STU1365,21,Female,2,Arts,7.1,4.8,3,3.0,3.0
+STU1366,25,Female,1,STEM,3.2,7.9,4,9.0,8.0
+STU1367,20,Male,1,Arts,3.8,6.0,1,2.0,2.0
+STU1368,20,Male,4,STEM,5.9,6.8,1,2.0,3.0
+STU1369,22,Male,2,Arts,8.5,3.2,6,13.0,12.0
+STU1370,23,male,5,Arts,5.6,6.5,2,4.0,4.0
+STU1371,22,female,3,STEM,6.3,4.8,1,3.0,3.0
+STU1372,24,female,1,Social Sciences,7.2,7.4,2,8.0,7.0
+STU1373,23,Prefer not to say,1,Law,8.6,2.6,2,10.0,8.0
+STU1374,23,Prefer not to say,1,Arts,5.0,7.0,3,6.0,2.0
+STU1375,23,F,5,Law,6.2,3.5,5,5.0,6.0
+STU1376,26,Male,1,Humanities,7.8,7.1,7,0.0,1.0
+STU1377,21,Male,3,STEM,4.5,5.2,3,2.0,6.0
+STU1378,17,Male,5,Health Sciences,7.9,4.5,4,3.0,5.0
+STU1379,25,Female,5,Humanities,4.9,3.6,2,12.0,12.0
+STU1380,21,Male,2,Humanities,6.5,4.2,5,14.0,9.0
+STU1381,22,M,1,Business,5.8,3.3,1,6.0,5.0
+STU1382,24,Female,1,Humanities,5.1,3.6,0,3.0,1.0
+STU1383,18,Female,1,STEM,4.7,5.9,6,19.0,13.0
+STU1384,19,Male,1,Social Sciences,7.2,1.1,5,5.0,8.0
+STU1385,18,Male,3,STEM,7.0,7.0,2,7.0,10.0
+STU1386,20,Male,4,Social Sciences,6.1,7.1,3,8.0,5.0
+STU1387,22,M,3,Health Sciences,6.4,3.7,3,4.0,4.0
+STU1388,23,Female,3,Business,6.7,4.9,2,5.0,5.0
+STU1389,22,male,1,Business,5.0,2.2,2,6.0,7.0
+STU1390,19,Male,4,Business,7.1,5.7,1,13.0,7.0
+STU1391,17,Female,3,Law,7.8,2.4,3,5.0,2.0
+STU1392,22,Female,4,Social Sciences,9.9,1.0,2,5.0,6.0
+STU1393,21,male,5,Business,5.9,9.2,3,1.0,0.0
+STU1394,22,male,2,STEM,6.4,2.0,1,1.0,2.0
+STU1395,23,Male,1,STEM,7.1,4.2,5,1.0,3.0
+STU1396,22,F,2,Business,7.1,5.0,3,3.0,5.0
+STU1397,23,Male,2,Arts,5.6,5.9,5,11.0,9.0
+STU1398,22,female,5,Social Sciences,5.5,4.4,0,8.0,6.0
+STU1399,23,Male,2,STEM,7.2,5.3,3,10.0,10.0
+STU1400,20,Male,4,Health Sciences,5.5,3.6,4,,
+STU1401,21,M,3,Business,6.2,1.3,2,5.0,4.0
+STU1402,22,Male,1,Health Sciences,6.6,4.3,1,1.0,3.0
+STU1403,23,Female,2,STEM,7.7,6.4,2,3.0,5.0
+STU1404,21,Female,3,Humanities,5.9,2.1,2,12.0,13.0
+STU1405,23,Male,3,Arts,4.0,5.0,2,7.0,8.0
+STU1406,21,male,2,STEM,3.5,12.5,2,2.0,6.0
+STU1407,21,M,2,Social Sciences,5.1,4.1,2,3.0,3.0
+STU1408,23,female,4,Law,4.6,4.3,3,16.0,11.0
+STU1409,17,Female,1,STEM,6.5,1.2,0,16.0,12.0
+STU1410,19,Female,5,STEM,5.2,1.9,2,9.0,8.0
+STU1411,18,Male,1,Social Sciences,5.8,2.4,4,4.0,3.0
+STU1412,17,Male,1,Business,4.7,6.3,1,0.0,5.0
+STU1413,20,Male,3,STEM,5.5,2.2,1,2.0,5.0
+STU1414,23,F,3,Business,8.0,1.0,1,0.0,1.0
+STU1415,21,female,3,Social Sciences,6.6,5.6,0,1.0,4.0
+STU1416,22,male,2,STEM,6.3,2.6,3,11.0,10.0
+STU1417,24,Female,5,Business,6.3,1.2,0,6.0,7.0
+STU1418,24,Female,3,Health Sciences,5.4,6.8,2,8.0,5.0
+STU1419,21,Female,3,Humanities,6.9,3.3,7,6.0,6.0
+STU1420,24,Female,2,Health Sciences,6.4,6.0,5,2.0,3.0
+STU1421,22,Female,1,Business,5.4,1.2,1,6.0,7.0
+STU1422,20,Male,3,Arts,6.9,1.0,2,2.0,2.0
+STU1423,20,Male,2,Social Sciences,4.0,4.7,3,12.0,5.0
+STU1424,18,F,3,STEM,6.6,1.8,4,0.0,0.0
+STU1425,20,Female,1,Health Sciences,7.2,4.7,4,3.0,4.0
+STU1426,21,F,5,Business,6.6,4.7,1,11.0,9.0
+STU1427,23,Male,2,STEM,8.4,4.4,1,10.0,12.0
+STU1428,25,Female,4,STEM,4.5,8.3,2,12.0,11.0
+STU1429,19,Male,3,Social Sciences,5.1,16.0,5,8.0,7.0
+STU1430,22,Male,1,STEM,6.1,5.6,5,1.0,3.0
+STU1431,19,Male,4,STEM,5.1,12.5,0,10.0,11.0
+STU1432,22,Male,3,STEM,6.2,3.4,3,12.0,9.0
+STU1433,21,female,4,Business,6.3,1.6,1,13.0,10.0
+STU1434,18,Female,2,Business,7.2,2.7,4,9.0,6.0
+STU1435,23,Female,3,Humanities,8.0,3.5,5,6.0,9.0
+STU1436,20,Female,4,STEM,5.2,13.2,2,16.0,13.0
+STU1437,20,Female,3,STEM,7.1,4.5,0,9.0,6.0
+STU1438,19,Female,2,Humanities,4.9,8.5,3,1.0,2.0
+STU1439,20,Male,3,Business,7.4,3.2,2,4.0,6.0
+STU1440,22,Prefer not to say,3,Social Sciences,5.8,2.9,4,6.0,5.0
+STU1441,21,M,5,STEM,7.9,1.1,2,14.0,10.0
+STU1442,22,male,2,STEM,8.0,12.9,5,5.0,4.0
+STU1443,22,Female,2,STEM,5.3,10.2,2,1.0,3.0
+STU1444,24,Male,4,Business,3.7,5.1,1,2.0,3.0
+STU1445,21,female,3,Business,5.8,3.7,2,3.0,3.0
+STU1446,18,Female,4,Health Sciences,8.0,4.6,0,1.0,0.0
+STU1447,24,Male,2,Business,7.5,1.5,2,3.0,4.0
+STU1448,21,Female,1,Humanities,6.6,5.9,3,5.0,5.0
+STU1449,24,male,4,Humanities,6.8,9.7,1,7.0,6.0
+STU1450,22,Female,1,STEM,6.3,10.0,0,,
+STU1451,21,male,1,Humanities,8.4,1.2,1,16.0,14.0
+STU1452,22,male,3,Business,6.7,8.4,0,5.0,7.0
+STU1453,26,Male,4,Business,8.3,1.5,5,6.0,7.0
+STU1454,26,female,4,STEM,7.2,1.0,6,6.0,5.0
+STU1455,22,Female,2,Health Sciences,7.0,8.6,0,2.0,2.0
+STU1456,22,Female,1,Arts,5.8,3.0,4,3.0,2.0
+STU1457,24,Male,5,STEM,5.1,7.9,4,3.0,3.0
+STU1458,20,Prefer not to say,1,Humanities,7.9,7.5,7,1.0,3.0
+STU1459,22,Male,1,Social Sciences,5.6,6.9,2,,
+STU1460,21,Male,2,STEM,7.1,4.6,2,3.0,4.0
+STU1461,22,Female,3,Health Sciences,6.7,1.7,2,2.0,1.0
+STU1462,20,Male,4,Social Sciences,5.6,3.6,5,6.0,3.0
+STU1463,18,Male,4,Arts,6.0,10.1,4,10.0,10.0
+STU1464,17,Female,3,Law,7.2,8.0,3,5.0,4.0
+STU1465,19,Female,1,STEM,6.8,3.7,1,3.0,2.0
+STU1466,21,female,2,Business,3.5,3.7,4,1.0,0.0
+STU1467,21,Male,3,Humanities,5.6,6.5,5,2.0,4.0
+STU1468,26,male,1,STEM,8.2,4.8,2,8.0,10.0
+STU1469,24,Female,2,Business,5.9,3.8,3,11.0,8.0
+STU1470,19,Female,2,Law,4.2,6.1,2,3.0,4.0
+STU1471,22,Female,1,STEM,8.6,6.0,3,2.0,5.0
+STU1472,21,Female,3,Business,7.3,2.7,3,16.0,9.0
+STU1473,21,F,3,Health Sciences,5.9,5.5,4,9.0,12.0
+STU1474,22,Female,1,Business,6.0,5.8,6,2.0,8.0
+STU1475,23,Male,3,Business,7.6,4.4,2,4.0,0.0
+STU1476,21,Non-binary,4,Law,5.6,2.5,2,7.0,6.0
+STU1477,24,M,4,Business,7.2,3.5,2,4.0,3.0
+STU1478,19,Male,4,STEM,7.1,2.1,1,5.0,5.0
+STU1479,22,Female,2,STEM,6.6,5.6,2,4.0,4.0
+STU1480,27,female,4,Arts,7.5,1.2,0,2.0,5.0
+STU1481,22,male,2,STEM,5.3,10.7,2,0.0,2.0
+STU1482,25,Prefer not to say,2,Business,6.7,9.4,1,9.0,6.0
+STU1483,22,Female,1,STEM,4.7,5.9,2,6.0,6.0
+STU1484,23,Female,2,Business,4.1,7.7,4,12.0,11.0
+STU1485,21,Male,2,Arts,6.1,7.4,1,2.0,1.0
+STU1486,21,F,2,Business,7.1,4.9,3,2.0,0.0
+STU1487,20,Female,4,Law,7.2,3.9,5,16.0,16.0
+STU1488,22,male,2,STEM,7.0,3.6,3,8.0,6.0
+STU1489,20,Female,2,Business,5.0,11.0,1,0.0,2.0
+STU1490,23,Female,1,Health Sciences,7.6,2.5,2,25.0,17.0
+STU1491,24,male,2,Business,6.5,2.5,3,11.0,10.0
+STU1492,22,Female,2,STEM,5.0,8.1,3,5.0,9.0
+STU1493,21,female,2,Health Sciences,6.1,7.7,1,6.0,7.0
+STU1494,22,Female,2,Business,8.7,3.7,2,3.0,1.0
+STU1495,21,Female,4,Humanities,4.2,6.3,3,2.0,1.0
+STU1496,23,Female,5,Law,5.9,6.8,2,4.0,4.0
+STU1497,18,Female,3,STEM,5.0,1.6,3,5.0,5.0
+STU1498,21,Female,3,STEM,5.9,9.8,0,4.0,1.0
+STU1499,17,Male,4,STEM,5.5,6.8,2,3.0,6.0
+STU1500,18,Male,5,Business,3.8,5.9,4,25.0,16.0
